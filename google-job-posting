@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>Commercieel medewerker</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type" : "JobPosting",
+      "title" : "Commercieel medewerker",
+      "description" : "<p>Bij Optimaal Leadgeneratie werken we voor bedrijven met betekenis. Aan ons de uitdagende taak om de onderscheidende eigenschappen van hun producten of diensten bij prospects (business-to-business) zichtbaar te maken. Wij informeren, prikkelen, verleiden en scoren. En dat doen we door middel van koude telefonische acquisitie. Ons doel? Onze klant aan tafel krijgen bij de juiste mensen met behoefte aan zijn propositie.</p>",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "Optimaal Leadgeneratie",
+        "value": "Optimaal Leadgeneratie"
+      },
+      "datePosted" : "2020-01-15",
+      "validThrough" : "2021-05-18T00:00",
+      "employmentType" : "FULL_TIME",
+      "hiringOrganization" : {
+        "@type" : "Organization",
+        "name" : "Optimaal Leadgeneratie",
+        "sameAs" : "https://www.optimaal-leadgeneratie.nl/",
+        "logo" : "https://www.optimaal-leadgeneratie.nl/wp-content/uploads/2020/10/Logo.png"
+      },
+      "jobLocation": {
+      "@type": "Place",
+        "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kanaaldijk Noord West 21A",
+        "addressLocality": ", Helmond",
+        "addressRegion": "LA",
+        "postalCode": "5707",
+        "addressCountry": "NL"
+        }
+      },
+     "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "EUR",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": "",
+          "unitText": "MONTH"
+        }
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
