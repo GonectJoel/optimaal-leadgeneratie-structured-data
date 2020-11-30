@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Koude acquisitie training</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Koude acquisitie training",
+      "description": "Tijdens onze koude acquisitie training leren we je precies wat je moet doen om bij je prospect in beeld te komen, een relatie op te bouwen en verkopen te genereren.
+                      Van voorbereiding tot afsluiting, van gesprekstechniek tot koopsignaal: we leren je de fijne kneepjes van het vak (want dat is het!). Je ontdekt hoe je het onderscheidend vermogen van je bedrijf over het voetlicht brengt en zo je toegevoegde waarde laat zien.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Optimaal leadgeneratie",
+        "sameAs": "https://www.optimaal-leadgeneratie.nl/koude-acquisitie-training/"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
