@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Maatwerk acquisitie training</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Acquisitie training",
+      "description": "De acquisitie training van Optimaal Leadgeneratie zit boordevol direct toepasbare tips en technieken. De praktijk staat centraal en dat betekent: aan de slag met jouw klanten.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Optimaal leadgeneratie",
+        "sameAs": "https://www.optimaal-leadgeneratie.nl/acquisitie-training/"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
